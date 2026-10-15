@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    
+}
+ul {
+    display: flex;   
+}
+ul li{
+    margin-left: 20px;
+    list-style-type: none;
+    font-weight: bold;
+    
+}
+.search{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.button{
+    padding: 8px;
+    margin: 0px;
+    background-color: orangered;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.container2{
+    justify-self: center;
+    color: white;
+    margin: 40px;
+    padding: 30px;
+    padding-bottom: 65px;
+    border-radius: 10px;
+    outline: none;
+    background-color: black;
+}
+#but{
+    width: 310px;
+    background-color: orangered;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 6px;
+    font-size: 15px;
+}
+#but2{
+    outline: none;
+    border: none;
+    padding: 6px;
+    font-size: 15px;
+    width: 310px;
+    font-weight: bold;
+
+}
+#input1{
+    width: 300px;
+    height: 27px;
+}
+
+
